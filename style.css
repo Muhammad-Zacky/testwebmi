@@ -13,7 +13,7 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  background-position: auto;
+  background-position: center;
   background-repeat:no-repeat;
   background-image: url(https://c4.wallpaperflare.com/wallpaper/553/564/19/cyberpunk-amoled-dark-vertical-hd-wallpaper-preview.jpg);
 }
