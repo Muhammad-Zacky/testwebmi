@@ -2,6 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 
 *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
 
@@ -12,8 +15,8 @@ body{
   justify-content: center;
   background-position: center;
   background-repeat:no-repeat;
-  background-image: url(https://c4.wallpaperflare.com/wallpaper/364/693/218/portrait-display-vertical-yin-and-yang-artwork-minimalism-hd-wallpaper-preview.jpg);
-  background-size: 720px 1576px;
+  background-image: url(20231006_103426.jpg);
+  background-size: 1837px 3246px;
 }
 
 section{
