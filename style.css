@@ -13,9 +13,10 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  background-position:center;
+  background-position: justify;
   background-repeat:no-repeat;
   background-image: url(20231006_103426.jpg);
+  background-size: auto;
 }
 
 section{
