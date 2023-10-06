@@ -14,7 +14,7 @@ body{
   align-items: center;
   justify-content: center;
   background-image: url(20231006_103426.jpg);
-  background-size: 900px 1600px;
+  background-size: auto;
   background-position:center;
   background-repeat:no-repeat
 }
