@@ -13,11 +13,11 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  background-position: center;
+  background-position: auto;
   background-repeat:no-repeat;
   background-image: url(20231006_103426.jpg);
   witdh: 200px;
-  height: 4000px;
+  height: 4001px;
 }
 
 section{
