@@ -14,9 +14,10 @@ body{
   align-items: center;
   justify-content: center;
   background-position: center;
-  background-repeat:no-repeat;
   background-image: url(20231006_103426.jpg);
-  background-size: 1837px 3246px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 section{
